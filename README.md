@@ -1,6 +1,6 @@
 # Anton Kapurkin
 
-# ⚡Stack
+# 💻 Stack
 
 * Python, Jupyter, 
 * Pandas, NumPy, Scikit-learn, SciPy, Polars, PySpark
@@ -19,6 +19,6 @@ National Research University "Moscow Power Engineering Institute"
 <b>Data Science specialist - professional courses,</b>\
 Yandex Practicum
 
-# :factory: Job
+# 🏦 Job
 
 Currently also working as full-stack web developer (.NET Core, C#, T-SQL, Javascript, etc.)
