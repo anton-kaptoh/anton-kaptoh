@@ -1,6 +1,6 @@
 # Anton Kapurkin
 
-# Stack
+# ⚡Stack
 
 * Python, Jupyter, 
 * Pandas, NumPy, Scikit-learn, SciPy, Polars, PySpark
@@ -11,7 +11,7 @@
 * VS Code, Jupyter Lab
 * Classical ML, Computer Vision, Time series, NLP
 
-# Education
+# 🎓 Education
 
 <b>M.S. degree in Computer Science,</b> \
 National Research University "Moscow Power Engineering Institute"
@@ -19,6 +19,6 @@ National Research University "Moscow Power Engineering Institute"
 <b>Data Science specialist - professional courses,</b>\
 Yandex Practicum
 
-# Job
+# :factory: Job
 
 Currently also working as full-stack web developer (.NET Core, C#, T-SQL, Javascript, etc.)
