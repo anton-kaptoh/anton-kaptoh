@@ -1,4 +1,4 @@
-# Anton Kapurkin
+# Anton K.
 
 # 💻 Stack
 
